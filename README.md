@@ -3,7 +3,9 @@ Diablo 2: Resurrected - Steam Deck Font Size Mod
 
 Scaling of text and font to improve readability on the steam deck.
 
--mod sdfs -txt
+1. Extract zip file into the mods folder
+2. In Bnet launcher, click the gear next to play, click settings in the menu and checkmark "additonal command line arguments"
+3. add: "-mod sdfs -txt"
 
 Preview comparison
 | Default               | Mod               |

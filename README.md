@@ -1,5 +1,5 @@
 # d2r.sdfs
-Diablo 2: Resurrected - Steam Deck Font Size
+Diablo 2: Resurrected - Steam Deck Font Size Mod
 
 Scaling of text and font to improve readability on the steam deck.
 
